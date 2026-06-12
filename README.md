@@ -208,7 +208,7 @@ java CustomerFeedbackSystem
 
 <div align="center">
 
-**[Your Name]**
+** Khushi Kumari**
 B.Tech CSE with AI & ML in association with IBM
 Rungta International Skills University, Bhilai, CG
 
