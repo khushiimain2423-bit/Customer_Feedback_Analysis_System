@@ -209,7 +209,7 @@ java CustomerFeedbackSystem
 <div align="center">
 
 Khushi Kumari,
-B.Tech CSE in association with Google
+B.Tech CSE in association with Google,
 Rungta International Skills University, Bhilai, CG
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
